@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software and Website Developer
 ------------------------------
 
-Throughout my journey with coding I have learnt to completely build, update and maintain a whole project of medium size on my own! Languages I have learnt so far are: JavaScript Python GoLang LUA C++ C Assembly Java Moreover, I am occupied with Cyber Security and currently studying on TryHackMe!
+Throughout my journey with coding I have learnt to completely build, update and maintain a whole project of medium size on my own! Languages I have learnt so far are: JavaScript Python GoLang LUA C++ C Assembly Java. Moreover, I am occupied with Cyber Security and currently studying on TryHackMe!
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [smokeytempo@proton.me](mailto:smokeytempo@proton.me)
